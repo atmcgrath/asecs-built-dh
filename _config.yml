@@ -1,7 +1,7 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Setup
-title:               How I Built This
+title:               'How I Built This: Digital Methods for 18th-Century Studies'
 tagline:             Digital Methods for 18th-Century Studies
 description:         'A panel at ASECS 2023'
 url:                 'http://atmcgrath.github.io'
