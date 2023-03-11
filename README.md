@@ -1,6 +1,6 @@
 # About
 
-"How I Built This: DH Methods in 18th-century Scholarship" was a roundtable session held at the American Society for Eighteenth-Century Studies annual meeting in St. Louis, MO (2023). The panel was sponsored by the ASECS Digital Humanities Caucus.
+"How I Built This: DH Methods in 18th-century Scholarship" was a roundtable session held at the [American Society for Eighteenth-Century Studies](https://www.asecs.org/) annual meeting in St. Louis, MO (2023). The panel was sponsored by the ASECS Digital Humanities Caucus.
 
 Chair: Alice McGrath, Bryn Mawr College
 
