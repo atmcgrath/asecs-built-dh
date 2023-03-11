@@ -37,6 +37,7 @@ Thursday, March 9
 Saturday, March 11
 
 ### Nicholas PAIGE, UC Berkeley, “The Virtues of Counting”
+- Book: *[Technologies of the Novel: Quantitative Data and the Evolution of Literary Systems](https://www.cambridge.org/core/books/technologies-of-the-novel/106A0CE0F95264A0F4A9B67965A7A2FE)*
 
 ### Beth R. YOUNG, University of Central Florida, “Using ElasticSearch, Applied Graph Theory, and the EEBO and ECCO Corpora to Identify the Sources of Samuel Johnson’s Dictionary Quotations”
 - Project site: [Samuel Johnson's Dictionary Online](https://johnsonsdictionaryonline.com/)
@@ -44,7 +45,7 @@ Saturday, March 11
 
 ### Scott M. SANDERS, Dartmouth College, “Newspapers as an Untapped DH Resource”
 - Project site: [French Atlantic Theater](http://frenchatlantictheater.host.dartmouth.edu/)
-- GitHub Repository: https://github.com/jladams/french-atlantic-theater
+- GitHub Repository: [jladams/french-atlantic-theater](https://github.com/jladams/french-atlantic-theater)
 - Tools:
   - [spaCy’s entity tagger](https://spacy.io/usage/training) 
   - [OpenRefine](https://openrefine.org/)
