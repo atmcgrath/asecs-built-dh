@@ -40,7 +40,7 @@ Saturday, March 11
 - Book: *[Technologies of the Novel: Quantitative Data and the Evolution of Literary Systems](https://www.cambridge.org/core/books/technologies-of-the-novel/106A0CE0F95264A0F4A9B67965A7A2FE)*
 
 ### Beth R. YOUNG, University of Central Florida, “Using ElasticSearch, Applied Graph Theory, and the EEBO and ECCO Corpora to Identify the Sources of Samuel Johnson’s Dictionary Quotations”
-- [Link to paper](https://docs.google.com/document/d/1MvXCq5ss9aaJ83h-ixBcBdFg7uMdroxH/edit#heading=h.gjdgxs)
+- [Link to paper](https://docs.google.com/document/d/1MvXCq5ss9aaJ83h-ixBcBdFg7uMdroxH/edit#heading=h.gjdgxs) *NB: please do not circulate or quote without permission*
 - Project site: [Samuel Johnson's Dictionary Online](https://johnsonsdictionaryonline.com/)
 - Tool: [ElasticSearch](https://www.elastic.co/products/)
 
